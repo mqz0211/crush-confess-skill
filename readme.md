@@ -28,16 +28,16 @@ Works across Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI, Windsurf, a
 
 ```bash
 # Install into the current project
-npx skills add <your-username>/<your-repo>
+npx skills add mqz0211/crush-confess-skill
 
 # Or install globally across all projects
-npx skills add <your-username>/<your-repo> -g
+npx skills add mqz0211/crush-confess-skill -g
 ```
 
 *(If using a multi-skill repository layout under `skills/`, target the skill directly:)*
 
 ```bash
-npx skills add <your-username>/<your-repo> --skill crush-confess
+npx skills add mqz0211/crush-confess-skill --skill crush-confess
 ```
 
 ### Manual Installation
